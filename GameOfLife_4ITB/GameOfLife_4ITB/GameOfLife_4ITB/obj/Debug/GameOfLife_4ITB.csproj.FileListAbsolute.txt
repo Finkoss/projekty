@@ -1,0 +1,11 @@
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\bin\Debug\GameOfLife_4ITB.exe.config
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\bin\Debug\GameOfLife_4ITB.exe
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\bin\Debug\GameOfLife_4ITB.pdb
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.csprojAssemblyReference.cache
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.Canvas.resources
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.Form1.resources
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.Properties.Resources.resources
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.csproj.GenerateResource.cache
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.csproj.CoreCompileInputs.cache
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.exe
+C:\Users\vrati\source\repos\GameOfLife_4ITB\GameOfLife_4ITB\obj\Debug\GameOfLife_4ITB.pdb
