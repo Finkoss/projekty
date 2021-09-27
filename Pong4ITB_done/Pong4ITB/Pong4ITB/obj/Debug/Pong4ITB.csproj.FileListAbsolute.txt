@@ -1,0 +1,12 @@
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\bin\Debug\Pong4ITB.exe.config
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\bin\Debug\Pong4ITB.exe
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\bin\Debug\Pong4ITB.pdb
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.Form1.resources
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.Pong.resources
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.Properties.Resources.resources
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.csproj.GenerateResource.cache
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.csproj.CoreCompileInputs.cache
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.exe
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.pdb
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.csprojAssemblyReference.cache
+C:\Users\vrati\source\repos\Pong4ITB\Pong4ITB\obj\Debug\Pong4ITB.Menu.resources
